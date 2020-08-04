@@ -36,17 +36,14 @@ namespace csvOuput
                     {
                       StringBuilder stringBuilder = new StringBuilder();
                       stringBuilder.Append("Name,Email,Title,Total Minutes\n");
-                      stringBuilder.AppendLine(fields[0] + "," + fields[1] + "," + fields[2] + "," + (streamWatchDuration + videoWatchDuration + "\n"));
+                      stringBuilder.AppendLine(fields[0] + "," + fields[1] + "," + fields[2] + "," + (streamWatchDuration + videoWatchDuration));
                       File.WriteAllText(outputFile, stringBuilder.ToString());
                     }
                     else if (streamWatchDuration + videoWatchDuration > 40 && fields[1] != "") {
                       StringBuilder stringBuilder = new StringBuilder();
-                      stringBuilder.AppendLine(fields[0] + "," + fields[1] + "," + fields[2] + "," + (streamWatchDuration + videoWatchDuration + "\n"));
-                      File.WriteAllText(outputFile, stringBuilder.ToString());
+                      stringBuilder.AppendLine(fields[0] + "," + fields[1] + "," + fields[2] + "," + (streamWatchDuration + videoWatchDuration));
+                      File.AppendAllText(outputFile, stringBuilder.ToString());
                     }
-                    else {
-                      Console.WriteLine("There are no lines in whova.csv with a combined video watch duration and stream watch duration greater than 40 minutes with an email address");
-										}
                 }
             }
         }
