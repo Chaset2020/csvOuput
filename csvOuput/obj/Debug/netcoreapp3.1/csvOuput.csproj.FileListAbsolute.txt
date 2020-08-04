@@ -1,0 +1,13 @@
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\bin\Debug\netcoreapp3.1\csvOuput.exe
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\bin\Debug\netcoreapp3.1\csvOuput.deps.json
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\bin\Debug\netcoreapp3.1\csvOuput.runtimeconfig.json
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\bin\Debug\netcoreapp3.1\csvOuput.runtimeconfig.dev.json
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\bin\Debug\netcoreapp3.1\csvOuput.dll
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\bin\Debug\netcoreapp3.1\csvOuput.pdb
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.csprojAssemblyReference.cache
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.AssemblyInfoInputs.cache
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.AssemblyInfo.cs
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.csproj.CoreCompileInputs.cache
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.dll
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.pdb
+C:\Users\CTaulbee\Source\Repos\csvOuput\csvOuput\obj\Debug\netcoreapp3.1\csvOuput.genruntimeconfig.cache
